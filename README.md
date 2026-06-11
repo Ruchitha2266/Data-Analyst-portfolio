@@ -23,12 +23,15 @@ Collection of SQL queries covering:
 - Window Functions
 - Subqueries
 
-### 3. Power BI Dashboard
-Interactive dashboard for business insights and KPI tracking.
-
+### 3. Excel Sales Dashboard
+.Sales data analysis
+.SUM and AVERAGE formulas
+.Sales chart visualization
 ## Goals
 - Improve analytical skills
 - Build real-world data projects
+- Power BI Sales Dashboard
+- Netflix Data Analysis Using Python
 - Become a Data Analyst
 
 ## Contact
