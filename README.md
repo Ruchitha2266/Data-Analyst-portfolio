@@ -2,7 +2,7 @@
 
 Welcome to my Data Analyst Portfolio.
 
-I am a B.Tech student interested in Data Analytics and Business Intelligence.
+I am a B.Tech graduate interested in Data Analytics and Business Intelligence.
 
 ## Skills
 - Python
